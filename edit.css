@@ -1,0 +1,29 @@
+.teams {
+    font-weight: bold; 
+}
+.money {font-size: 1.2rem;
+
+}
+.dollars {
+    width: 100%;
+}
+.center {
+    width: 50%;
+    margin: 0 auto;
+}
+body {
+    padding: 0 2rem;
+}
+h1 {
+    text-align: center;
+    background-color: #ade631;
+    width: 75%;
+    margin: 0 auto;
+}
+h2,.money {
+    text-decoration: underline;
+}
+.soccer {
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
